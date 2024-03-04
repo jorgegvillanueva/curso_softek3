@@ -1,0 +1,8 @@
+.idea
+*.tmp
+
+temporales
+# temporales/**/*.*
+# !temporales/**/*.txt
+
+node_modules
