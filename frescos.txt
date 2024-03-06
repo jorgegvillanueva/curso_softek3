@@ -1,3 +1,6 @@
 Lubina
 Pollo
 Cordero
+Ternera
+Huevos
+Sardinas

@@ -1,2 +1,4 @@
 Lechuga
 Tomate
+Puerro
+Cebolla
